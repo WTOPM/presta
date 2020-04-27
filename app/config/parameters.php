@@ -1,11 +1,11 @@
 <?php return array (
   'parameters' => 
   array (
-    'database_host' => 'localhost',
-    'database_port' => '',
-    'database_name' => 'PrestaDb',
-    'database_user' => 'root',
-    'database_password' => 'root',
+    'database_host' => 'ec2-54-75-244-161.eu-west-1.compute.amazonaws.com',
+    'database_port' => '5432',
+    'database_name' => 'dcv2hptitq31k7',
+    'database_user' => 'vpywmfnxsomkic',
+    'database_password' => '048690107bf8c875280b5f7f6c31a81f58de0c8b71eed4e00136138c299b8c53',
     'database_prefix' => 'ps_',
     'database_engine' => 'InnoDB',
     'mailer_transport' => 'smtp',
